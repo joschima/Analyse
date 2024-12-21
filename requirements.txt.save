@@ -1,6 +1,7 @@
 streamlit
-yfinance
 ta
 requests
 beautifulsoup4
+git+https://github.com/ranaroussi/yfinance.git
+
 
